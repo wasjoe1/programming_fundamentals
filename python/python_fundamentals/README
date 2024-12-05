@@ -1,0 +1,34 @@
+This folder is for all the python fundamentals in prep for square point's python dev role
+
+On paper:
+1. GIL
+2. Generators => generator functions, yield, generator comprehension
+3. Context managers => with; try & except
+
+Not yet done:
+4. Decorators
+5. Dunder methods
+6. Threads
+7. Asyncio
+
+Other things to prep for: (refresh)
+1. Structured vs UnStructured DB
+    i. Sharding & indexing
+    ii. horizontal & vertical scaling
+    iii. atomicity & eventual consistency
+    iv. CAP theorem (Consistency, availability & partition tolerance)
+2. DB scaling
+   i. master & slave
+
+3. Systems design
+    i. load balancer
+    ii. message queue
+
+4. Experiences
+    i. august robotics
+        a. queue system => hardware station
+        b. email on thread => making "ecommerce website"
+    ii. pointstar
+        a. booking system
+    iii. fintech hackathon
+        a. physical lock system
