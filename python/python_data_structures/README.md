@@ -1,2 +1,7 @@
-So far, the DSs that i have implemented are:
+## This folder contains implementations of data structures implemented in python
+
+Builtin python DS:
+
+Other DS:
 - Tries
+- Key value store

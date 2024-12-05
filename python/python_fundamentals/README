@@ -1,17 +1,19 @@
-This folder is for all the python fundamentals in prep for square point's python dev role
 
-On paper:
+### This folder contains python fundamental concepts.
+<!-- This was initally done in preparation for my square point interview python dev role -->
+<!-- However, has since become crucial points that i need to take note as a python developer -->
+
+
+### Concepts
 1. GIL
 2. Generators => generator functions, yield, generator comprehension
 3. Context managers => with; try & except
-
-Not yet done:
 4. Decorators
 5. Dunder methods
 6. Threads
 7. Asyncio
 
-Other things to prep for: (refresh)
+Other concepts to prep for: (to refresh)
 1. Structured vs UnStructured DB
     i. Sharding & indexing
     ii. horizontal & vertical scaling
